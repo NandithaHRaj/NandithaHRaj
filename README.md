@@ -1,19 +1,39 @@
-<h1>Hi, I'm Nanditha! <br/><a href="https://github.com/NandithaHRaj">Software Developer</a>
+<h1>Hi, I'm Nanditha! 👋</h1>
+<h3>Java Developer</h3>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+I am a Software Developer with 8+ years of experience in Java and backend development.  
+Currently focusing on strengthening problem-solving skills and building hands-on projects.
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Practicing Datastructures & Algorithms in Python](https://github.com/NandithaHRaj/dsa-practice)
-- <b>Full Stack Web App Recipe Saver(Spring Boot, Thymeleaf)</b>
-  - [My Recipe Saver](https://github.com/NandithaHRaj/recipe-saver) 
-- <b>Python learning & Game Development </b>
-  - [Python Learning](https://github.com/NandithaHRaj/python-basics) 
+---  
 
-<h2> 🤳 Connect with me:</h2>
+### 🛠️ Tech Stack
+- Java, Spring Boot, Microservices, REST API
+- Thymeleaf, HTML, CSS , Primefaces 
+- Python (DSA & basics)
+- Git, GitHub
+- PostgreSQl , MongoDB
 
-[<img align="left" alt="NandithaHRaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://linkedin.com/in/nandithahr/
+### 👨‍💻 Software Development Projects
+
+- **Data Structures and Algorithms Practice**
+  - Practicing Data Structures & Algorithms using Python  
+  - 🔗 https://github.com/NandithaHRaj/dsa-practice
+
+- **Full Stack Web App – Recipe Saver**
+  - Spring Boot, Thymeleaf  
+  - 🔗 https://github.com/NandithaHRaj/recipe-saver
+
+- **Python Learning & Game Development**
+  - Basics of Python and small projects  
+  - 🔗 https://github.com/NandithaHRaj/python-basics
+
+---
+
+### 🤳 Connect with me
+[LinkedIn](https://linkedin.com/in/nandithahr/)
+
 
 <!--
 **NandithaHRaj/NandithaHRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
