@@ -8,7 +8,7 @@ Currently focusing on strengthening problem-solving skills and building hands-on
 
 ### 🛠️ Tech Stack
 - Java, Spring Boot, Microservices, REST API
-- Thymeleaf, HTML, CSS , Primefaces 
+- React, Thymeleaf, HTML, CSS , Primefaces 
 - Python (DSA & basics)
 - Git, GitHub
 - PostgreSQl , MongoDB
@@ -20,6 +20,10 @@ Currently focusing on strengthening problem-solving skills and building hands-on
 - **Data Structures and Algorithms Practice**
   - Practicing Data Structures & Algorithms using Python  
   - 🔗 https://github.com/NandithaHRaj/dsa-practice
+ 
+- **Full Stack CRUD App – Recipe Collection**
+  - Spring Boot, React  
+  - 🔗 https://github.com/NandithaHRaj/react-springboot-crud
 
 - **Full Stack Web App – Recipe Saver**
   - Spring Boot, Thymeleaf  
@@ -28,6 +32,7 @@ Currently focusing on strengthening problem-solving skills and building hands-on
 - **Python Learning & Game Development**
   - Basics of Python and small projects  
   - 🔗 https://github.com/NandithaHRaj/python-basics
+  
 
 ---
 
